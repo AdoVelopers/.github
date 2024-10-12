@@ -29,11 +29,11 @@ We want you to succeed! Here are some resources to help:
 
 ## Meet Our Team 🧑‍💻👩‍💻
 We’re a diverse and dynamic team, united by a passion for technology:
-- **[Karl Santiago Bernaldez]** – CEO & Founder
-- **[Bryan Lomerio]** – Lead Developer
-- **[Aaron Francis Pacardo]** – AI Specialist
-- **[Mark Louis Odavar]** – Fullstack Developer
-- **[Juan Rodrigo Badiola]** – System Analyst
+- **[Karl Santiago Bernaldez](https://www.facebook.com/karl.bernaldez.92)** – CEO & Founder
+- **[Bryan Lomerio](https://www.facebook.com/Aninoqt)** – Lead Developer
+- **[Aaron Francis Pacardo](https://www.facebook.com/SwathStew8017)** – AI Specialist
+- **[Mark Louis Odavar](https://www.facebook.com/marklouis.odavar.7)** – Fullstack Developer
+- **[Juan Rodrigo Badiola](https://www.facebook.com/juanrodrigobadiola)** – System Analyst
 
 > **Fun Fact**: At Adovelopers, we like to fuel our creativity with some good coffee and a dash of futuristic thinking. ☕🤖
 
