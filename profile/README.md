@@ -32,6 +32,7 @@ We’re a diverse and dynamic team, united by a passion for technology:
 - **[Karl Santiago Bernaldez]** – CEO & Founder
 - **[Bryan Lomerio]** – Lead Developer
 - **[Aaron Francis Pacardo]** – AI Specialist
+- **[Mark Louis Odavar]** – Fullstack Developer
 - **[Juan Rodrigo Badiola]** – System Analyst
 
 > **Fun Fact**: At Adovelopers, we like to fuel our creativity with some good coffee and a dash of futuristic thinking. ☕🤖
