@@ -39,7 +39,7 @@ We’re a diverse and dynamic team, united by a passion for technology:
 
 ## Stay Connected 🤝
 We love to hear from fellow developers and tech enthusiasts! Get in touch:
-- 💼 Connect on [LinkedIn]([#](https://www.linkedin.com/company/adovelopers-intelligent-systems/))
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/company/adovelopers-intelligent-systems/)
 - 🐦 Follow us on [Facebook](https://www.facebook.com/adovelopers)
 - 🌍 Visit our [Website](adovelopers.cloud)
 
